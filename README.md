@@ -11,4 +11,4 @@ Notes on the project and files:
 - Limitations: we are not allowed to reveal the name of the site or share the data, due to non-disclosure and because we do not own the data; we are, however, allowed to share the python scripts and the visuals we created
 - LG1_finalPaper.pdf goes in depth about the background, methodology, visualizations, and deliverables
 - The .py files are the python scripts to create our visualizations and process the data
-- The .html files are examples of what the final product looks like since they can't be created by the python scripts without the data
+- The .png files are examples of what the final product looks like since they can't be created by the python scripts without the data
